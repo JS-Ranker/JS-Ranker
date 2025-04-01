@@ -5,7 +5,6 @@
 Bienvenido a mi espacio en GitHub donde comparto mi viaje en el mundo del desarrollo web y la tecnología.
 
 ### 🚀 Sobre mí
-- 💼 Actualmente trabajando como Desarrollador Web
 - 🌱 Siempre aprendiendo nuevas tecnologías
 - 👯 Buscando colaborar en proyectos de código abierto
 - 💬 Pregúntame sobre desarrollo web, JavaScript, y mis tecnologías favoritas
