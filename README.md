@@ -41,8 +41,8 @@ Bienvenido a mi espacio en GitHub donde comparto mi viaje en el mundo del desarr
 </p>
 
 ### 👀 Visitantes
-![Contador de Visitantes](https://profile-counter.glitch.me/TUUSUARIO/count.svg)
+![Contador de Visitantes](https://profile-counter.glitch.me/JS-Ranker/count.svg)
 
 ---
 
-⭐️ De [Hector](https://github.com/TUUSUARIO)
+⭐️ De [Hector](https://github.com/JS-Ranker)
